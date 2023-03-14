@@ -11,8 +11,13 @@ const Sidebar = () => {
             <img src={Avatar} alt="Jefferson Patriota" />
             <p className="title">Desenvolvedor</p>
             <SocialNetworks/>
-            <InformationContainer/>
+            <InformationContainer/><br />
+
+            
+
         </aside>;
+
+
     
 };
 export default Sidebar;

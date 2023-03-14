@@ -3,11 +3,9 @@ import React from 'react'
 const ProjectsContainer = () => {
   return (
     <section className='projeto-container'>
-      <h2>Projetos</h2>
-        <p>
-        Tenho alguns projetos em meu repositório  realizado em React , Javascript, HTML e CSS. Já este meu portfólio foi realizado em React + SASS
-        </p>
-        <a href='https://github.com/jeffpatriota?tab=repositories'target="_blank" className='btn'>Ver Projetos</a>
+      <h2>Projetos Pessoais </h2><br />
+        <a  href='https://movietips.netlify.app/'target="_blank" className='btn'>Movies Tips</a><br></br>
+        <a href='https://criando-lista-tarefas.netlify.app/'target="_blank" className='btn'>Lista de Tarefas</a>
     </section>
   )
 }
