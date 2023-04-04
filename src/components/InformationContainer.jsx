@@ -24,6 +24,7 @@ const InformationContainer = () => {
             <div>
                 <h3>Localização</h3>
                 <p>São Paulo / SP</p>
+                
             </div>
         </div>
     </section>
